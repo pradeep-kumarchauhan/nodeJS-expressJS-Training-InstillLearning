@@ -1,6 +1,6 @@
 ```console
 Step 1: Create a folder crud-api
-$ mkdir crus-api
+$ mkdir cred-api
 
 Step 2: Create package.json
 $ npm init -y
